@@ -7,7 +7,6 @@
 
 -August 2020 - June 2023
 
-
 ## Projects
 ### American Superstore Sales Analysis
 
